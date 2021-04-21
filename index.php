@@ -173,7 +173,7 @@ foreach($results as $result)
 {  ?>
 
 
-        <div class="testimonial-m">
+        <div class="testimonial-m test">
  
           <div class="testimonial-content">
             <div class="testimonial-heading">
